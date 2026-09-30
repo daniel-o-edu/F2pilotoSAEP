@@ -2,6 +2,7 @@ Repositório da Prova Piloto - SAEP 2026
 Este repositório é o projeto base da Prova Piloto SAEP 2026 - Função 2
 
 *** Passo a passo para clonar o repositório ***
+
 Para baixar os arquivos e trabalhar no seu computador, siga as instruções abaixo:
 
 1. Instale o Git: 
